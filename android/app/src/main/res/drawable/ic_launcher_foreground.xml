@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Zigzag/lag symbol -->
+    <path
+        android:fillColor="#FF888888"
+        android:pathData="M40,30 L60,30 L50,45 L65,45 L38,78 L48,54 L33,54 Z" />
+</vector>
